@@ -1,2 +1,6 @@
 # natours
-Natours App using Express JS
+
+Natours App
+
+Language : Javascript (Express JS)
+Database : MongoDB with Mongoose
